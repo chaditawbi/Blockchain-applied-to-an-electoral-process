@@ -1,0 +1,200 @@
+temps modpow naive: 0.000000 ,s: 1 
+ 0 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 10000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 20000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 30000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 40000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 50000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 60000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 70000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 80000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 90000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 100000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 110000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 120000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 130000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 140000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 150000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 160000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 170000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 180000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 190000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 200000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 210000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 220000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 230000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 240000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 250000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 260000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 270000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 280000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 290000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 300000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 310000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 320000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 330000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 340000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 350000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 360000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 370000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 380000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 390000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 400000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 410000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 420000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 430000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 440000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 450000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 460000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 470000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 480000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 490000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 500000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 510000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 520000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 530000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 540000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 550000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 560000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 570000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 580000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 590000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 600000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 610000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 620000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 630000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 640000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 650000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 660000 0.000000 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 670000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 680000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 1 
+ 690000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 700000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 9 
+ 710000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 720000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 730000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 740000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 750000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 760000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 770000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 780000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 790000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 800000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 810000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 820000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 830000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 840000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 850000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 860000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 870000 0.015625 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 880000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 890000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 900000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 910000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 920000 0.015625 0.000000
+temps modpow naive: 0.031250 ,s: 1 
+ 930000 0.031250 0.000000
+temps modpow naive: 0.000000 ,s: 3 
+ 940000 0.000000 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 950000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 960000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 3 
+ 970000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 9 
+ 980000 0.015625 0.000000
+temps modpow naive: 0.015625 ,s: 1 
+ 990000 0.015625 0.000000
